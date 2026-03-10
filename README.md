@@ -18,7 +18,7 @@ Open `dj-hand-controller.html` in any modern browser (Chrome recommended). Click
 - Left hand controls **filter frequency**
 - Right hand controls **volume**
 - Pinch gesture controls **reverb**
-- Peace sign (✌️) toggles **delay**
+- Peace sign toggles **delay**
 - Hand spread adjusts **BPM / tempo**
 - Live **waveform**, **spectrum analyzer**, and **VU meter** visualizations
 - FX bank: **Flanger**, **Delay**, **Distort**, **Bitcrush**
@@ -39,7 +39,7 @@ Open `dj-hand-controller.html` in any modern browser (Chrome recommended). Click
 | Raise / lower hand | Left | Filter sweep (200Hz – 8kHz) |
 | Raise / lower hand | Right | Volume (0–100%) |
 | Pinch fingers together | Right | Reverb amount |
-| Peace sign ✌️ | Right | Toggle Delay on/off |
+| Peace sign | Right | Toggle Delay on/off |
 | Spread hand wide | Left | BPM (80–180) |
 
 5. Click effect buttons (Flanger, Delay, Distort, Bitcrush) to toggle manually
@@ -94,10 +94,10 @@ open dj-hand-controller.html
 
 | Browser | Support |
 |---|---|
-| Chrome | ✅ Recommended |
-| Edge | ✅ |
-| Firefox | ⚠️ Partial (MediaPipe may vary) |
-| Safari | ⚠️ Limited Web Audio support |
+| Chrome | Recommended |
+| Edge | Supported |
+| Firefox | Partial (MediaPipe may vary) |
+| Safari | Limited Web Audio support |
 
 ---
 
